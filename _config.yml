@@ -1,1 +1,30 @@
-theme: jekyll-theme-minimal
+author: 박보영
+title: 박보영
+email: me@boyoung.dev
+description: Life is a game. Play it :)
+baseurl: ""
+url: "https://boyoung.dev"
+
+profiles:
+    - name: Instagram
+      url: https://www.instagram.com/fimuxd
+    - GitHub
+      url: https://github.com/fimuxd
+    - LinkedIn
+      url: https://www.linkedin.com/in/parkboyoung
+    - GITGET
+      url: https://apps.apple.com/us/app/gitget/id1317170245
+      
+plugins:
+    - jekyll-feed
+    - jekyll-sitemap
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - bin
+    - vendor
+    - Makefile
+    - CNAME
+    - .gitignore
