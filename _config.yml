@@ -8,11 +8,11 @@ url: "https://boyoung.dev"
 profiles:
     - name: Instagram
       url: https://www.instagram.com/fimuxd
-    - GitHub
+    - name: GitHub
       url: https://github.com/fimuxd
-    - LinkedIn
+    - name: LinkedIn
       url: https://www.linkedin.com/in/parkboyoung
-    - GITGET
+    - name: GITGET
       url: https://apps.apple.com/us/app/gitget/id1317170245
       
 plugins:
