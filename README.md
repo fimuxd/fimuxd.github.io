@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 박보영
 
-You can use the [editor on GitHub](https://github.com/fimuxd/fimuxd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> 무한한 인터넷 세상에 제 깃발도 하나 작게 세워보려 합니다. 🚩
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 놀러오세요 [🚪입장하기](https://boyoung.dev)
 
-### Markdown
+## Contact Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fimuxd/fimuxd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 📱 +82 10.3316.1609 
+- 📧 me@boyoung.dev
